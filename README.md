@@ -1,2 +1,0 @@
-# SIG-TQA
-Experiment code
