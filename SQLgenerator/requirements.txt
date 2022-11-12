@@ -5,5 +5,5 @@ networkx~=2.2
 entmax
 pyrsistent~=0.14.9
 bpemb~=0.2.11
-stanford-corenlp~=3.9.2
+stanza~=1.2.3
 torchtext~=0.3.1
