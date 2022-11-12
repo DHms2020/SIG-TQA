@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="89b1b3b9-1edc-427d-9b39-80abf97b6dfc" name="baidu_server" url="http://localhost">
+        <fileTransfer mountedRoot="$USER_HOME$/mnt/qianmo-ssd3/mashuai07/gap-text2sql-main_v2" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
